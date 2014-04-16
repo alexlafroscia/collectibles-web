@@ -1,0 +1,127 @@
+/**
+ *  Index Page
+ */
+
+#welcome-header {
+  background: $brand-info;
+  height: 150px;
+  width: 100%;
+
+  h1 {
+    margin: {
+      top: 1.85em;
+    }
+    text-align: center;
+  }
+}
+
+.text-block {
+  font-size: 1.2em;
+  margin: {
+    top: 1em;
+    bottom: 1em;
+  }
+  text-align: center;
+}
+
+.collection {
+  background: {
+    color: darken($white, 4);
+  }
+  border: 2px solid $gray;
+  cursor: pointer;
+  height: 150px;
+  position: relative;
+  margin: {
+    bottom: 1em;
+  }
+  width: 100%;
+  img {
+    height: 100%;
+    position: absolute;
+    width: 150px;
+  }
+  .text {
+    padding: {
+      left: 5px;
+    }
+    margin: {
+      left: 150px;
+    }
+    position: absolute;
+    z-index: 10;
+  }
+}
+
+#search-results {
+  margin: {
+    top: 1em;
+    bottom: 1em;
+  }
+  padding: {
+    top: 1em;
+    bottom: 1em;
+  }
+}
+
+#login-box {
+  margin: {
+    top: 1em;
+  }
+
+  .nav-tabs {
+    a {
+      color: $white;
+      &:hover {
+        color: black;
+        background: {
+          color: darken($white, 4);
+        }
+      }
+    }
+    .active {
+      a {
+        color: black;
+        background: {
+          color: $white;
+        }
+      }
+    }
+  }
+
+  .tab-pane {
+    background: {
+      color: $white;
+    }
+    padding: {
+      top: 1em;
+    }
+  }
+
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm-min) {
+  #welcome-header {
+    height: 225px !important;
+  }
+
+  .collection {
+    height: 175px;
+    margin: 0;
+    img {
+      width: 100%;
+    }
+    .text {
+      bottom: 0;
+      margin: 0;
+    }
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: $screen-md-min) {
+  .collection {
+    height: 200px;
+  }
+}

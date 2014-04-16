@@ -1,0 +1,71 @@
+/**
+ *  SASS Imports
+ */
+
+// Bootstrap
+@import "../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
+
+
+/**
+ *  Variables
+ */
+$bg-color: #F7F7F7;
+$gray: #B6B6B6;
+
+
+/**
+ *  Bootstrap Resets
+ */
+
+.navbar-default {
+  margin: {
+    bottom: 0px;
+  }
+}
+
+.container {
+  max-width: 970px;
+}
+
+
+/**
+ *  Shared Components
+ */
+
+// Body
+body {
+  background: {
+    color: $bg-color;
+  }
+}
+
+// Headers
+h2 {
+  color: black;
+  font-size: 1.4em;
+}
+
+// Footer
+footer {
+
+}
+
+// Sidebar
+#sidebar {
+  border: {
+    right: 1px solid $gray;
+  }
+  text-align: right;
+  padding: {
+    top: 1em;
+    bottom: 1em;
+  }
+}
+
+
+/**
+ *  Pages
+ */
+
+// Index
+@import "pages/index.scss"

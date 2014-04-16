@@ -1,0 +1,1057 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getL",
+				"getLength"
+			],
+			[
+				"add",
+				"addNMNotif"
+			],
+			[
+				"new",
+				"newMessages"
+			],
+			[
+				"chaT",
+				"chatElement"
+			],
+			[
+				"check",
+				"checkForMessages"
+			],
+			[
+				"getElem",
+				"getElementsByTagName"
+			],
+			[
+				"chat",
+				"chatElement"
+			],
+			[
+				"remove",
+				"removedObject"
+			],
+			[
+				"number",
+				"numberOfEntries"
+			],
+			[
+				"Linked",
+				"LinkedListPlus"
+			],
+			[
+				"largest",
+				"largestKey"
+			],
+			[
+				"larget",
+				"largestKey"
+			],
+			[
+				"toStri",
+				"toStringRec"
+			],
+			[
+				"String",
+				"StringBuilder"
+			],
+			[
+				"recent",
+				"recentSpudCost"
+			],
+			[
+				"box",
+				"box_counter"
+			],
+			[
+				"totalSpu",
+				"totalSpudCost"
+			],
+			[
+				"recen",
+				"recentSpudCost"
+			],
+			[
+				"display",
+				"displayTemp"
+			],
+			[
+				"move",
+				"moveToTemp"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"lin",
+				"line1"
+			],
+			[
+				"text",
+				"textarea	<textarea>"
+			],
+			[
+				"page",
+				"pageWidth-large"
+			],
+			[
+				"Fu",
+				"FileNotFoundException"
+			],
+			[
+				"return",
+				"returnString"
+			],
+			[
+				"opti",
+				"optionList"
+			],
+			[
+				"old",
+				"oldX"
+			],
+			[
+				"pID2",
+				"pID2organsNeeded"
+			],
+			[
+				"dID2org",
+				"dID2organsFile"
+			],
+			[
+				"dID2",
+				"dID2nameFile"
+			],
+			[
+				"d",
+				"dID2name"
+			],
+			[
+				"who",
+				"who_played_file"
+			],
+			[
+				"athele",
+				"athlete_to_sports_file"
+			],
+			[
+				"athel",
+				"athlete_to_sports_file"
+			],
+			[
+				"all",
+				"all_states_file"
+			],
+			[
+				"all_",
+				"all_states_file"
+			],
+			[
+				"all_sat",
+				"all_states_file"
+			],
+			[
+				"all_p",
+				"all_presidents"
+			],
+			[
+				"all_pres",
+				"all_presidents_file"
+			],
+			[
+				"stats",
+				"state_to_pres"
+			],
+			[
+				"state",
+				"state_to_pres"
+			],
+			[
+				"dont_mix",
+				"dont_mix_map"
+			],
+			[
+				"categori",
+				"category_1_list"
+			],
+			[
+				"cate",
+				"category_1_list"
+			],
+			[
+				"cat",
+				"category_1_list"
+			],
+			[
+				"don",
+				"dont_mix"
+			],
+			[
+				"pa",
+				"pairs2"
+			],
+			[
+				"pai",
+				"match_pair"
+			],
+			[
+				"dont",
+				"dont_mix_map"
+			],
+			[
+				"pairs",
+				"pairs1"
+			],
+			[
+				"drug",
+				"drug_category_map"
+			],
+			[
+				"pat",
+				"patient_file"
+			],
+			[
+				"drug_categ",
+				"drug_category_map"
+			],
+			[
+				"patient",
+				"patient_map"
+			],
+			[
+				"Calc",
+				"Calculator"
+			],
+			[
+				"mu",
+				"multiply"
+			],
+			[
+				"Array",
+				"ArrayList"
+			],
+			[
+				"operator",
+				"operatorList"
+			],
+			[
+				"operat",
+				"operandList"
+			],
+			[
+				"mult",
+				"multIndex"
+			],
+			[
+				"whih",
+				"whichButton"
+			],
+			[
+				"Action",
+				"ActionListener"
+			],
+			[
+				"bottom",
+				"bottomPanel"
+			],
+			[
+				"parse",
+				"parseFloat"
+			],
+			[
+				"score",
+				"score_str_list"
+			],
+			[
+				"query",
+				"query_nums"
+			],
+			[
+				"quer",
+				"query_nums"
+			],
+			[
+				"print",
+				"printArrayList"
+			],
+			[
+				"Arra",
+				"ArrayList"
+			],
+			[
+				"courses",
+				"course_names"
+			],
+			[
+				"cou",
+				"course_names"
+			],
+			[
+				"sc",
+				"schedule"
+			],
+			[
+				"scheud",
+				"schedule_file"
+			],
+			[
+				"sch",
+				"schedule_file"
+			],
+			[
+				"auth",
+				"auth_token"
+			],
+			[
+				"mem",
+				"memberArr"
+			],
+			[
+				"member",
+				"member2pacsFile"
+			],
+			[
+				"memb",
+				"member2pacsFile"
+			],
+			[
+				"dW",
+				"dWord"
+			],
+			[
+				"to",
+				"toCanonical"
+			],
+			[
+				"get",
+				"getNumer"
+			],
+			[
+				"se",
+				"setNumTails"
+			],
+			[
+				"set",
+				"setNumHeads"
+			],
+			[
+				"bump",
+				"bumpNumTails"
+			],
+			[
+				"bum",
+				"bumpNumHeads"
+			],
+			[
+				"setNu",
+				"setNumTails"
+			],
+			[
+				"num",
+				"numHeads"
+			],
+			[
+				"numb",
+				"numberStrings"
+			],
+			[
+				"woocomm",
+				"woocommerce-points-and-rewards"
+			],
+			[
+				"woocom",
+				"woocommerce-constant-contact"
+			],
+			[
+				"jWord",
+				"jWordCnt"
+			],
+			[
+				"MAX",
+				"MAX_JWORDS"
+			],
+			[
+				"dWor",
+				"dWordCnt"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"Ma",
+				"MAX_CNT"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"double",
+				"double_val"
+			],
+			[
+				"flat",
+				"float_val"
+			],
+			[
+				"open",
+				"openUser"
+			],
+			[
+				"Brows",
+				"BrowserStackTunnel"
+			],
+			[
+				"user_wants",
+				"user_wants_to_clear_jar"
+			],
+			[
+				"Brow",
+				"BrowserStackTunnel"
+			],
+			[
+				"Br",
+				"BrowserStack"
+			],
+			[
+				"no",
+				"noKey"
+			],
+			[
+				"acess",
+				"access_key"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 237.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"scroll",
+				"Typewriter: Scrolling Mode (Toggle)"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"vintag",
+				"Vintageous: Reset"
+			],
+			[
+				"scrollin",
+				"Typewriter: Scrolling Mode (Toggle)"
+			],
+			[
+				"type",
+				"Typewriter: Scrolling Mode (Toggle)"
+			],
+			[
+				":e",
+				":e - Revert"
+			],
+			[
+				"synta mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"synt mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"gui sli",
+				"Git GUI Clients: Gitk"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"updat",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				":",
+				":e - Revert"
+			],
+			[
+				":E",
+				":e - Revert"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"syn markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"synt coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"synta coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syn",
+				"Set Syntax: Java"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"display",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"compile",
+				"Coffee: Compile File"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"chrome",
+				"Snippet: Google AJAX Libraries: Chrome Frame"
+			],
+			[
+				"evernote",
+				"Send to Evernote"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"syntax markdow",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"mult",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"mul",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"synt",
+				"Set Syntax: Java"
+			],
+			[
+				"synta java",
+				"Set Syntax: Java"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"strap",
+				"Strapdown.js Markdown: Preview in Sublime Text"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"markdown broswe",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown preview in ",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"text.markdown",
+			"scope",
+			"print(\"Hello World\");",
+			"print \"hello\"",
+			"print \"Hello world\";",
+			"ls",
+			"java",
+			"javac",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2",
+			"os.time",
+			"import os",
+			"urllib2",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"bundle",
+			"ls",
+			"subprocess.call('ls', shell=True)",
+			"subprocess.call('ls', shell=true)",
+			"subprocess.call('ls')",
+			"import subprocess",
+			"safj",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/CS 334 Web Server/Template/css/application.css",
+		"/Volumes/CS 334 Web Server/Template/css/application.scss",
+		"/Volumes/CS 334 Web Server/Template/includes/footer.php",
+		"/Volumes/CS 334 Web Server/Template/includes/header.php",
+		"/Volumes/CS 334 Web Server/Template/index.php",
+		"/Users/alex/Developer/Firehose/chat-js/chat.sublime-project",
+		"/Users/alex/Developer/Firehose/chat-js/package.json",
+		"/Users/alex/Developer/Firehose/chat-js/source/setup.coffee",
+		"/Users/alex/Developer/Firehose/chat-js/app/index.html",
+		"/Users/alex/Developer/Firehose/chat-js/build/chat.js",
+		"/Users/alex/Developer/Firehose/chat-js/source/chat.coffee",
+		"/Users/alex/Developer/Firehose/chat-js/gulpfile.coffee",
+		"/Users/alex/Developer/Firehose/chat-js/bower_components/socket.io-client/dist/socket.io.min.js",
+		"/Users/alex/Developer/Firehose/chat-js/bower_components/socket.io-client/dist/bower_components/socket.io-client/dist/socket.io.min.js",
+		"/Users/alex/Developer/Firehose/chat-js/bower.json",
+		"/Users/alex/Developer/Firehose/chat-js/README.md",
+		"/Users/alex/Developer/Firehose/api/README.md",
+		"/Users/alex/.zshrc",
+		"/Users/alex/Developer/Firehose/api/README",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/Users/alex/Developer/Firehose/chat-js/LICENSE",
+		"/Users/alex/Developer/Firehose/chat-js/.gitignore",
+		"/Users/alex/Developer/Firehose/chat-js/gulpfile.js",
+		"/Users/alex/Developer/Firehose/chat-js/server/views/index.jade",
+		"/Users/alex/Developer/Firehose/chat/build/chat.js",
+		"/Users/alex/Developer/Firehose/chat/gulpfile.coffee",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/4/todo.md",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/4/assign4.sublime-project",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/4/assig4.htm",
+		"/Users/alex/Library/Application Support/Evernote/accounts/Evernote/alexlafroscia/external-edits/9F0C13FE-0890-4C6D-A282-3D1C10E1882B/LListWithSort.java",
+		"/Users/alex/Library/Application Support/Evernote/accounts/Evernote/alexlafroscia/external-edits/5E777D55-B824-4991-9DFC-505C5D69CDF2/AbstractList.java",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/alex/Developer/Firehose/chat/source/server.coffee",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/alex/Developer/Firehose/chat/design/index.html",
+		"/Users/alex/Developer/Firehose/chat/.gitignore",
+		"/Users/alex/Developer/Firehose/chat/README.md",
+		"/Users/alex/Developer/Meshnet/frontend/source/js/main.js.coffee",
+		"/Users/alex/Developer/Meshnet/frontend/source/js/application.js",
+		"/Users/alex/Developer/invituous/frontend/.gitignore",
+		"/Users/alex/Developer/invituous/frontend/app/scripts/app.coffee",
+		"/Users/alex/Developer/invituous/frontend/app/scripts/router.coffee",
+		"/Users/alex/Developer/invituous/frontend/Gruntfile.js",
+		"/Users/alex/Developer/invituous/frontend/app/scripts/routes/application_route.coffee",
+		"/Users/alex/Developer/invituous/frontend/app/scripts/store.coffee",
+		"/Users/alex/Developer/invituous/frontend/package.json",
+		"/Users/alex/Developer/invituous/backend/package.json",
+		"/Users/alex/Developer/invituous/app.js",
+		"/Users/alex/Developer/invituous/views/layout.jade",
+		"/Users/alex/Developer/invituous/package.json",
+		"/Users/alex/Developer/invituous/.gitignore",
+		"/Users/alex/Developer/invituous/gulpfile.coffee",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/4/LLPTest.java",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/4/A4LList.java",
+		"/Users/alex/Developer/Firehose/chat/server/views/index.jade",
+		"/Users/alex/Developer/Firehose/chat/package.json",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/3/MyDB.java",
+		"/Users/alex/.oh-my-zsh/lib/key-bindings.zsh",
+		"/Users/alex/Developer/Meshnet/server/README.md",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/4/ReallyLongInt.java",
+		"/Users/alex/.oh-my-zsh/themes/agnoster.zsh-theme",
+		"/Users/alex/Dropbox/Apps/editorial/HOD notes.mdown",
+		"/Users/alex/Dropbox/Apps/editorial/HOD Midterm Essay.md",
+		"/Users/alex/Dropbox/Documents/HOD notes.mdown",
+		"/Users/alex/Desktop/HOD Midterm Essay.md",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/Typewriter/Typewriter.sublime-settings",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/User/Typewriter.sublime-settings",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/alex/Library/Application Support/Marked/Custom CSS/svbtle.css",
+		"/Users/alex/Downloads/GhostData.json",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/3/Todo.md",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/3/Assig3.java",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/3/MyDB_old.java",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/3/Test.java",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/3/assig3.htm",
+		"/Users/alex/College Notes/CS 445 - Data Structures/Assignments/3/Reverser.java",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/codeivate-st/codeivate-st.sublime-settings",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/alex/Desktop/test.md",
+		"/Users/alex/Desktop/text1.html",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/alex/Developer/Meshnet/frontend/source/js/templates/components/goal-feature.hbs",
+		"/Users/alex/Developer/Meshnet/frontend/.gitignore",
+		"/Users/alex/Developer/Meshnet/frontend/README.md",
+		"/Users/alex/Developer/Meshnet/frontend/source/js/templates/exploration.hbs",
+		"/Users/alex/Developer/Meshnet/frontend/vagrant/project-setup.sh",
+		"/Users/alex/Developer/Meshnet/frontend/Vagrantfile",
+		"/Users/alex/Developer/Meshnet/frontend/vagrant/install-node.sh",
+		"/Users/alex/Developer/Meshnet/frontend/vagrant/install-ruby.sh",
+		"/Users/alex/Developer/Meshnet/frontend/vagrant/install-rvm.sh",
+		"/Users/alex/Developer/Meshnet/frontend/vagrant/bootstrap.sh",
+		"/Users/alex/Developer/Meshnet/static/settings.htm",
+		"/Users/alex/Developer/Meshnet/static/js/settings.js",
+		"/Users/alex/Developer/Meshnet/frontend/bower.json",
+		"/Users/alex/Developer/Meshnet/static/readme.md",
+		"/Users/alex/Developer/Meshnet/yeoman/app/scripts/app.js.coffee",
+		"/Users/alex/Developer/Meshnet/yeoman/Gruntfile.js",
+		"/Users/alex/Developer/Meshnet/yeoman/app/scripts/main.js.coffee",
+		"/Users/alex/Developer/Meshnet/yeoman/bower.json",
+		"/Users/alex/Developer/Meshnet/yeoman/.bowerrc",
+		"/Users/alex/Developer/Meshnet/frontend/.bowerrc",
+		"/Users/alex/.atom/packages/language-handlebars/snippets/language-handlebars.cson",
+		"/Users/alex/.atom/packages/language-handlebars/README.md",
+		"/Users/alex/Developer/Firehose/kb/source/assets/js/app/controllers/articles_new_controller.js.coffee",
+		"/Users/alex/.atom/packages/language-handlebars/package.json",
+		"/Users/alex/Library/Application Support/Evernote/accounts/Evernote/alexlafroscia/content/p2627/content.html",
+		"/Users/alex/Desktop/temp/test.js",
+		"/Users/alex/Desktop/temp/index.html",
+		"/Users/alex/Desktop/sql.mdown",
+		"/Users/alex/Developer/Meshnet/static/index.htm",
+		"/Users/alex/Developer/Meshnet/endpoints/Objects/user.md",
+		"/Users/alex/Developer/Meshnet/endpoints/API/user.md",
+		"/Users/alex/Developer/Meshnet/endpoints/Objects/Tasks/task.md",
+		"/Users/alex/Developer/Meshnet/endpoints/API/student/tasks.md",
+		"/Users/alex/Developer/Meshnet/endpoints/API/login.md",
+		"/Users/alex/Developer/Meshnet/endpoints/user/user.md",
+		"/Users/alex/Developer/Meshnet/endpoints/user/index.md",
+		"/Users/alex/Developer/Meshnet/endpoints/student/tasks.md",
+		"/Users/alex/Developer/Meshnet/endpoints/student/tasks/task.md",
+		"/Users/alex/Developer/Meshnet/endpoints/student/tasks/__id.md",
+		"/Users/alex/Developer/Meshnet/endpoints/.git/COMMIT_EDITMSG",
+		"/Users/alex/Developer/Meshnet/endpoints/JSON/task.md",
+		"/Users/alex/Developer/Meshnet/endpoints/README.md",
+		"/Users/alex/Developer/Firehose/kb/config.rb"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"",
+			"document.getElementById 'fchat'",
+			"MyDB.java",
+			"MyDB_old.java",
+			"",
+			"index.coffee",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"FHchat",
+			"debug",
+			"@conversation",
+			"draw_white",
+			"draw",
+			"startConversation",
+			"trailing",
+			"document.getElementById 'fhchat'",
+			"sass",
+			"debug",
+			"getLastNode",
+			"}\n",
+			"debug",
+			"last",
+			"getNodeAt",
+			"path",
+			"been done",
+			"granted",
+			"place",
+			"very",
+			"compareTo",
+			"Comparable[]",
+			"Object[",
+			"Obehect",
+			"Object[",
+			"Object",
+			"while",
+			"provision :shell",
+			"provision",
+			"default",
+			"35729",
+			"resize",
+			"MyDB",
+			"## ",
+			"response",
+			"answer1",
+			"$question8",
+			"$question7",
+			"$question6",
+			"$question5",
+			"$question4",
+			"$question3",
+			"$question2",
+			"$question1",
+			"debug",
+			"print(\"\");",
+			"option",
+			"6",
+			"Strongly Agree",
+			"Somewhat Agree",
+			"Undecided",
+			"Somewhat Disagree",
+			"Strongly Disagree",
+			"agree2",
+			"agree1",
+			"checkbox",
+			"id=\"\"",
+			"search",
+			".container",
+			"container",
+			"img-post-cover",
+			"debug( e );",
+			"'",
+			"debug",
+			"toString",
+			"{\n",
+			"burke",
+			"wc_contant_contact_points_event_description",
+			"add_action_event_descriptions",
+			"wc_points_rewards_event_description",
+			"subscribe",
+			"wc_points_rewards_event_description",
+			"do_action",
+			"wc_points_rewards_write_review_points",
+			"settings_tab_id",
+			"get_settings",
+			"Points Earned for Actions",
+			"Points Earned or Actions",
+			"frontend",
+			"includes",
+			"frontend",
+			"admin_menu",
+			"Parthenon",
+			"pansa",
+			"pont",
+			"italic",
+			"\n",
+			"new",
+			"html",
+			"<!DOCTYPE html>\n<html>\n	<head>\n		<title>This is the title</title>\n	</head>\n	<body>\n		\n	</body>\n</html>",
+			"<!",
+			"html",
+			">>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"document.getElementById 'fchat'",
+			"Comparable<T>[]",
+			"(Comparable[]) Object[",
+			"MyDB_old",
+			"question1",
+			"$answer8",
+			"$answer7",
+			"$answer6",
+			"$answer5",
+			"$answer4",
+			"$answer3",
+			"$answer2",
+			"$answer1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 197.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 114.0
+	},
+	"project": "template.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"un",
+				"~/Desktop/untitled.html"
+			],
+			[
+				"html",
+				"~/Desktop/untitled.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
