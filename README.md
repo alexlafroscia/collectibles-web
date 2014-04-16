@@ -20,4 +20,5 @@ That's pretty much it.
 
 > There's nothing that makes you hate working with PHP as much as working with
 > PHP.
+>
 > -- Alex LaFroscia
